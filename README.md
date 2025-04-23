@@ -1,6 +1,4 @@
-I am a big hacker man, I have been know to use inspect element on occasions.\n
-I know, pretty impresive stuff, I even  know what command prompt is!!!!
-
+Cambridge Computer Science Undergraduate, ready to experiment wth more code :)
 
 <!---
 AragornOfKebroyd/AragornOfKebroyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
